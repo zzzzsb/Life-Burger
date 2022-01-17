@@ -2,10 +2,10 @@
 ## 2020-05
 ### 2d hamburger making game progect
 
-### 시작화면
+### start scene
 <img width="500" alt="햄버거_시작화면" src="https://user-images.githubusercontent.com/56349582/149846555-31ea1a95-59cc-4f41-be89-f0bcb2dadd21.png">
 
-### 플레이화면
+### main play scene
 <img width="500" alt="햄버거_플레이_1" src="https://user-images.githubusercontent.com/56349582/149846568-ca29a7e4-42aa-40da-bb9c-885e0f83e412.png">
 
 <img width="500" alt="햄버거_플레이_2" src="https://user-images.githubusercontent.com/56349582/149846574-e5804eb4-fe2c-48a9-8cea-7dc7fae495b0.png">
