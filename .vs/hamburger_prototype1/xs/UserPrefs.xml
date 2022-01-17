@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{1343875B-6136-4279-36CD-2BE8894F3311}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/HamburgerManager.cs">
+    <Files>
+      <File FileName="Assets/old/SB/Scripts/RecipeManager.cs" Line="79" Column="14" />
+      <File FileName="Assets/script/HamburgerManager.cs" Line="63" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="hamburger_prototype1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="old" expanded="True">
+                <Node name="SB" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="script" expanded="True">
+                <Node name="HamburgerManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4625ca11-4e8a-42ee-bcf7-6abc7c00ae4b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

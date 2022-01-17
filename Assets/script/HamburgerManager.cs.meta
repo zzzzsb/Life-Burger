@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bd9bb257f74dae94bb459ce7667a7699
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - topFactory: {instanceID: 0}
+  - meatFactory: {instanceID: 0}
+  - bottomFactory: {instanceID: 0}
+  - tomatoFactory: {instanceID: 0}
+  - cheeseFactory: {instanceID: 0}
+  - lettuceFactory: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
