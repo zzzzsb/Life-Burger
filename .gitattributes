@@ -2,5 +2,5 @@ hamburger_prototype2-9/* filter=lfs diff=lfs merge=lfs -text
 . filter=lfs diff=lfs merge=lfs -text
  filter=lfs diff=lfs merge=lfs -text
  
-Assets/script/** linguist-documentation=false
-Assets/SB/Scripts/** linguist-vendored=false
+Assets/** linguist-documentation=false
+Assets/** linguist-vendored=false
