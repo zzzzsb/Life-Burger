@@ -1,5 +1,5 @@
 # hamburger
-## 2d hamburger making game project by Unity
+## 2D hamburger making game project by Unity
 2020.05 
 
 
