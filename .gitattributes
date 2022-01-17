@@ -2,5 +2,4 @@ hamburger_prototype2-9/* filter=lfs diff=lfs merge=lfs -text
 . filter=lfs diff=lfs merge=lfs -text
  filter=lfs diff=lfs merge=lfs -text
  
-Assets/** linguist-documentation=false
-Assets/** linguist-vendored=false
+Assets/.cs linguist-detectable
