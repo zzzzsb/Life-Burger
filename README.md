@@ -1,7 +1,9 @@
 # hamburger
-## 2d hamburger making game progect
-### 2020.05 
+## 2d hamburger making game project by Unity
+2020.05 
 
+
+## Screenshots
 ### start scene
 <img width="500" alt="햄버거_시작화면" src="https://user-images.githubusercontent.com/56349582/149846555-31ea1a95-59cc-4f41-be89-f0bcb2dadd21.png">
 
