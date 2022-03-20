@@ -1,7 +1,7 @@
 # life-burger
 ## 2D hamburger making game project by Unity
-- 2020/05/18~2020/06/01
-- 오윤석, 지수빈
+- 개발기간 | 2020/05/18~2020/06/01
+- 팀원 | 오윤석, 지수빈
 <br>
 
 ## Screenshots
